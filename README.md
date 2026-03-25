@@ -1,6 +1,10 @@
 # Hi 👋 I'm Bakkesh
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Learner;AI+%26+Web+Tech+Enthusiast;Gym+Freak+%F0%9F%8F%8B%EF%B8%8F" />
+</p>
+
+<p align="center">
 💻 <b>Frontend Developer</b> <br>
 🚀 Passionate about building modern web applications <br>
 🏋️ Gym freak | 💡 Tech enthusiast
@@ -49,15 +53,16 @@
 
 ### 🛠 Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux" />
 </p>
+
 ---
 
 ## 📊 GitHub Profile Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bakkesh29&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bakkesh29&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bakkesh29&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bakkesh29&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
 </p>
 
 ---
@@ -65,7 +70,7 @@
 ## 💻 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakkesh29&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakkesh29&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -73,7 +78,23 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bakkesh29&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bakkesh29&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/bakkesh29/bakkesh29/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bakkesh29&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
