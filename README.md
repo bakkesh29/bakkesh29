@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-💻 <b>Frontend Developer</b> <br>
-🚀 Passionate about building modern web applications <br>
-🏋️ Gym freak | 💡 Tech enthusiast
+💻 <b>MERN Stack Developer</b> <br>
+🚀 Building scalable & modern web applications <br>
+🧠 Exploring AI + Full Stack Development <br>
+🏋️ Discipline | Consistency | Growth
 </p>
 
 ---
@@ -62,14 +63,6 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakkesh29&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
-</p>
-
----
-
-## 💻 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakkesh29&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
